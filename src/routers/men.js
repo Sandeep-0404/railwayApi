@@ -7,7 +7,7 @@ const MensRanking=require("../models/mens");
 
 router.get("/",(req,res)=>
 {
-    res.send("Hello welcome to cricket api");
+    res.send("Hello welcome to cricket api new");
 })
 
 
